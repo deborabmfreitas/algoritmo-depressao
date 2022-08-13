@@ -10,25 +10,25 @@ A depressão é um transtorno de humor debilitante e comum no mundo. O Brasil po
 
 Foram selecionados com base na literatura geral os principais tópicos relacionados à depressão e no final foi somada uma pontuação e indicada em qual zona o usuário está, sendo divididas em:
 
-• Zona segura
++ Zona segura
 
-• Zona de atenção
++ Zona de atenção
 
-• Zona de cuidado
++ Zona de cuidado
 
-• Zona de perigo
++ Zona de perigo
 
 **O que utilizei do python para elaborar o algoritmo?**
 
-• Operadores relacionais e lógicos
++ Operadores relacionais e lógicos
 
-• Estrutura condicional if
++ Estrutura condicional if
 
-• Estrutura de repetição while
++ Estrutura de repetição while
 
-• Biblioteca time com a função sleep
++ Biblioteca time com a função sleep
 
-• Tabela de cores ANSI
++ Tabela de cores ANSI
 
 
-Pretendo ir voltando aqui para otimizar o código de acordo com meu aprendizado nas próximas ferramentas em python. 💛
+Pretendo ir voltando aqui para otimizar o código de acordo com meu aprendizado das próximas ferramentas em python. 💛
