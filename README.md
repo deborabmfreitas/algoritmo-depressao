@@ -31,6 +31,14 @@ Foram selecionados com base na literatura geral os principais tópicos relaciona
 + Biblioteca time com a função sleep
 
 + Tabela de cores ANSI
+  
+  
+  
+
+Pretendo ir voltando aqui para otimizar o código de acordo com meu aprendizado das próximas ferramentas em python. 💛
+  
+  
+  
 
 **Updates:**
 
@@ -39,6 +47,3 @@ Foram selecionados com base na literatura geral os principais tópicos relaciona
 + Listas
 
 + Tratamento de erros
-
-
-Pretendo ir voltando aqui para otimizar o código de acordo com meu aprendizado das próximas ferramentas em python. 💛
