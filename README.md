@@ -1,6 +1,6 @@
-## Algoritmo para detectar depressão
+## Algoritmo para detectar depressão 🧠
 
-Aproveitando que está chegando o setembro amarelo, resolvi usar ferramentas de iniciante para elaborar um algoritmo simples que ajudasse a detectar a depressão. 🎗
+Aproveitando que está chegando o setembro amarelo, resolvi usar ferramentas de iniciante para elaborar um algoritmo simples que ajudasse a detectar a depressão. 
 
 A depressão é um transtorno de humor debilitante e comum no mundo. O Brasil possui a maior taxa de depressão da América Latina e a segunda maior do continente americano, ficando atrás apenas dos Estados Unidos. De acordo com a OMS, a depressão é a maior causa de incapacitação, incluindo a perda de produtividade, afastamento do trabalho e dificuldades nas atividades de cunho geral. Além disso, é considerada multifatorial, influenciada por fatores biológicos, psicológicos e sociais.
 
