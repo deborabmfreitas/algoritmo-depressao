@@ -35,7 +35,7 @@ Foram selecionados com base na literatura geral os principais tópicos relaciona
   
   
 
-Pretendo ir voltando aqui para otimizar o código de acordo com meu aprendizado das próximas ferramentas em python. 💛
+Pretendo ir voltando aqui para otimizar o código de acordo com meu aprendizado das próximas ferramentas em python.
   
   
   
