@@ -1,6 +1,5 @@
-# algoritmo-depressao
 
-**Algoritmo para detectar depressão**
+# Algoritmo para detectar depressão
 
 Aproveitando que está chegando o setembro amarelo eu resolvi usar minhas ferramentas de iniciante para elaborar um algoritmo simples que ajudasse a detectar a depressão. 🎗
 
@@ -8,7 +7,7 @@ A depressão é um transtorno de humor debilitante e comum no mundo. O Brasil po
 
 Diante disso, elaborei um algoritmo capaz de detectar brevemente o atual estado do usuário com relação à depressão, destacando os riscos e a importância de buscar ajuda profissional.
 
-**Como funciona o algoritmo**
+## Como funciona o algoritmo
 
 Foram selecionados com base na literatura geral os principais tópicos relacionados à depressão e no final foi somada uma pontuação e indicada em qual zona o usuário está, sendo divididas em:
 
@@ -20,7 +19,7 @@ Foram selecionados com base na literatura geral os principais tópicos relaciona
 
 + Zona de perigo
 
-**O que utilizei do python para elaborar o algoritmo**
+## O que utilizei do python para elaborar o algoritmo
 
 + Operadores relacionais e lógicos
 
@@ -40,7 +39,7 @@ Pretendo ir voltando aqui para otimizar o código de acordo com meu aprendizado 
   
   
 
-**Updates:**
+## Updates
 
 + Estrutura de repetição for
 
