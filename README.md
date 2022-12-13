@@ -1,5 +1,4 @@
-
-# Algoritmo para detectar depressão
+## Algoritmo para detectar depressão
 
 Aproveitando que está chegando o setembro amarelo eu resolvi usar minhas ferramentas de iniciante para elaborar um algoritmo simples que ajudasse a detectar a depressão. 🎗
 
